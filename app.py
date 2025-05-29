@@ -5,7 +5,7 @@ import base64
 
 app = Flask(__name__)
 
-# Set your Basic Auth username and password here
+# Set your Basic Auth username and password here update here
 USERNAME = "admin"
 PASSWORD = "Qz8#xLp2!vTa9wRf3*B7dPfH6sMkG5jLq"
 
